@@ -4,5 +4,5 @@
 
 1. Jyothi Prakash - 913119104039
 2. Sreejith       - 910719104027
-3. Praveen Kumar  - 913119104071
-4. Shahul Hameed  - 913119104092
+3. Shahul Hameed  - 913119104092
+4. Praveen Kumar  - 913119104071
