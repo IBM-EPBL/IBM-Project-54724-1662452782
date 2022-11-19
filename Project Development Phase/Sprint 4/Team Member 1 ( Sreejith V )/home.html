@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, minimal-scale=1.0">
+    <title>Home</title>
+    <!-- form awesome library for adding icons to the form -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+    <div class="login">
+        <!--
+        <h2><a href="/dashboard">Dashboard</a></h2>
+        <h2><a href="/info">User Info</a></h2>
+        -->
+        <form action="/dashboard" method="post">
+            <label for="dashboard">
+                <h2 class="fas fa-chart-line"></h2>
+            </label>
+            <!--
+            -->
+            <input type="submit" value="dashboard">
+        </form>
+    </div>
+    <div class="login">
+        <form action="/info" method="post">
+            <label for="info">
+                <h2 class="fas fa-info"></h2>
+            </label>
+            <!--
+            -->
+            <input type="submit" value="info">
+        </form>
+    </div>
+</body>
+</html>
