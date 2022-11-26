@@ -47,6 +47,11 @@ main tool used throughout this project was` [IBM Cognos Analytics](https://www.i
 
 **Project Video Demo Link =** [Project Video Demo](https://www.youtube.com/watch?v=mbY-M-GUqx4)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mbY-M-GUqx4
+" target="_blank"><img src="http://img.youtube.com/vi/mbY-M-GUqx4/0.jpg" 
+alt="Nalaiyathiran Demo Video" width="640" height="480" border="10" /></a>
+<br><br>
+
 # **:hammer_and_wrench: Technologies Used:**
 ` IBM Cognos Analytics with Watson, Python [ Pandas, Numpy, Matplotlib, Seaborn = Packages && Jupyter Notebook, `[Google Colab](https://colab.research.google.com/)` = platforms ], Git and Github `
 
