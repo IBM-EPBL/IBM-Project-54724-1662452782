@@ -23,7 +23,7 @@
 |       **Team ID**           | PNT2022TMID23006  |
 
 
-# :family_man_man_boy_boy: TEAM MEMBERS:
+# :family_man_man_boy_boy: TEAM MEMBERS: <a href="https://github.com/IBM-EPBL/IBM-Project-54724-1662452782/blob/main/UserDetails.md">(More About Team Members)</a>
 |   **TITLE**   |     **NAME**    |
 |:-------------:|:----------------|
 | TEAM LEADER   | **Jyothi Prakash N** |
